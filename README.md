@@ -31,9 +31,9 @@ End-to-end weather data analysis project. Pulls real 2025 daily weather data fro
 ## Project Structure
 
 ```
-hr-analysis/
+weather-analysis/
 │
-├── openweather.ipynb       # Main notebook (fetch -> clean -> EDA -> analysis)
+├── weather-analysis.ipynb  # Main notebook (fetch -> clean -> EDA -> analysis)
 ├── fetcher.py              # Open-Meteo API module
 ├── requirements.txt
 ├── .gitignore
