@@ -9,10 +9,16 @@
 
 End-to-end weather data analysis project. Pulls real 2025 daily weather data from the **Open-Meteo API** for 5 major U.S. cities, engineers features, and extracts quantitative insights — covering seasonal trends, city comparisons, extreme events, heatwaves, and precipitation patterns.
 
-<p float="center">
-  <img width="48%" height="350" alt="heatmap_avg_monthly_temp" src="https://github.com/user-attachments/assets/7356065b-cb2c-4c5e-b494-06af5433914e" />
-  <img width="48%" height="350" alt="avg_temp_timeline" src="https://github.com/user-attachments/assets/18689bad-1f61-4514-a283-00687b1add74" />
-</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/7356065b-cb2c-4c5e-b494-06af5433914e" width="100%" height="380" alt="heatmap_avg_monthly_temp" />
+    </td>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/18689bad-1f61-4514-a283-00687b1add74" width="100%" height="380" alt="avg_temp_timeline" />
+    </td>
+  </tr>
+</table>
 
 
 
