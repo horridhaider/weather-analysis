@@ -11,7 +11,7 @@ End-to-end weather data analysis project. Pulls real 2025 daily weather data fro
 
 <p float="left">
   <img width="49%" alt="heatmap_avg_monthly_temp" src="https://github.com/user-attachments/assets/7356065b-cb2c-4c5e-b494-06af5433914e" />
-  <img width="49%" alt="avg_temp_timeline" src="https://github.com/user-attachments/assets/18689bad-1f61-4514-a283-00687b1add74" />
+  <img width="49%" height="1765" alt="avg_temp_timeline" src="https://github.com/user-attachments/assets/18689bad-1f61-4514-a283-00687b1add74" />
 </p>
 
 
