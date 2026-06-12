@@ -1,9 +1,9 @@
 # U.S. Cities Weather Analysis 2025
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-3.0.2-150458?logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-3.0.3-150458?logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-4C72B0)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.8-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.9-orange)
 ![API](https://img.shields.io/badge/API-Open--Meteo-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
