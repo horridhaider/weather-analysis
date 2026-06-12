@@ -13,7 +13,7 @@ End-to-end weather data analysis project. Pulls real 2025 daily weather data fro
   <figure>
     <img src="https://github.com/user-attachments/assets/41c01b27-5b51-4623-a728-d23ef19aae30" width="48%"/>
     <img src="https://github.com/user-attachments/assets/b8a096ef-6493-4061-b473-586ce2ca87ec" width="48%"/>
-    <figcaption>Figure 1: Score Trends Across Years.</figcaption>
+    <figcaption>Figure 1: Heatmap showing avg. temperatures in each city in a year  |  Figure 2: .</figcaption>
   <figure>  
 </div>
 
